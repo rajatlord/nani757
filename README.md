@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nani757
+- 👋 Hi, I’m vivek chary
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning nlp
-- 💞️ I’m looking to collaborate on nlp
+- 🌱 I’m currently learning nlp,chatbots bilding
+- 💞️ I’m looking to collaborate on NLP,Deep Learing, Machine Learning, Data Analysis,linux..... 
 - 📫 How to reach me (https://www.linkedin.com/in/vivek-chary-5213531ba/)
 
 <!---
