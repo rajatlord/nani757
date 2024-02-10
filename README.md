@@ -35,8 +35,8 @@
 <img align="left" alt="kubernetes" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
           
 <br />
-<h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">Data Scientist from India.</h3>
+
+
 
 
 #
