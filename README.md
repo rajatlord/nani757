@@ -24,16 +24,17 @@
 <img align="left" alt="pandas" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Pytorch" width="35px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
-<img align="left" alt="scikitlearn" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-<img align="left" alt="tensorflow" width="35px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
-<img align="left" alt="raspberrypi" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
+<img align="left" alt="sci-kit learn" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Tensorflow" width="35px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+<img align="left" alt="raspberry_pi" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
 <img align="left" alt="bitbucket" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />
 <img align="left" alt="gitlab" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
 <img align="left" alt="Vim" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 <img align="left" alt="NeoVim" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" />
 <img align="left" alt="selenium" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-<img align="left" alt="kubernetes" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-          
+<img align="left" alt="Kubernetes" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Numpy" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+               
 <br />
 
 ---
@@ -47,4 +48,4 @@ In my recent endeavors focused on **conversation AI**, I successfully collaborat
 
 ### 🌌 Recent Milestones (Generative AI)
 
-In recent **generative AI projects**, I've navigated through the landscape of **large language models (LLMs)** such as **Mixtral 8x7b, Langchain, OpenAI, and Gemini**. Employing a diverse set of strategies, including **prompt engineering (utilizing zero-shot prompting and two few-shot prompting), RAG approach, and fine-tuning with domain-specific data**, we achieved remarkable results. Exploring the potential of **graph databases in LLM**, we harnessed vector databases like **Chroma DB and Pinecone DB** to enhance the depth and efficiency of our projects. The journey involves continuous exploration and innovation in the vast realm of **generative AI.**
+In recent **generative AI projects**, I've navigated through the landscape of **large language models (LLMs)** such as **Mixtral 8x7b, Langchain, OpenAI, and Gemini**. Employing a diverse set of strategies, including **prompt engineering (utilizing zero-shot prompting and two few-shot prompting), RAG approach, and fine-tuning with domain-specific data**, we achieved remarkable results. Exploring the potential of **graph databases in LLM**, we harnessed vector databases like **Chroma DB and Pinecone DB** to enhance the depth and efficiency of our projects. The journey involves continuous exploration and innovation in the vast realm of **generative AI**
