@@ -40,7 +40,7 @@
 ##
 
 
-### 🚀 Recent Achievements(Conversation AI)
+### 🚀 Recent Achievements(conversation AI)
 
 In my recent endeavors focused on **conversation AI**, I successfully collaborated on the development of web chatbots using platforms like **Rasa, OneReach.AI, and Yellow.AI**. Additionally, I applied my expertise to crafting application bots for **Microsoft and WhatsApp**, contributing to innovative solutions in the realm of conversational interfaces.
 
