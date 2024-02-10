@@ -34,6 +34,6 @@
 <img align="left" alt="selenium" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img align="left" alt="kubernetes" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
           
----
+<br />
 
 While working on conversation AI, I used tools such as Microsoft Bot and WhatsApp Bot. I also worked with Rasa, OneReach.AI, and Yellow.AI.
