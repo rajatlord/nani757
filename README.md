@@ -40,5 +40,11 @@
 ##
 
 
-### 📺 Latest update
-While working on conversation AI, I used tools such as Microsoft Bot and WhatsApp Bot. I also worked with Rasa, OneReach.AI, and Yellow.AI.
+### 🚀 Recent Achievements(Conversation AI)
+
+In my recent endeavors focused on **conversation AI**, I successfully collaborated on the development of web chatbots using platforms like **Rasa, OneReach.AI, and Yellow.AI**. Additionally, I applied my expertise to crafting application bots for **Microsoft and WhatsApp**, contributing to innovative solutions in the realm of conversational interfaces.
+
+
+### 🌌 Recent Milestones (Generative AI)
+
+In recent **generative AI projects**, I've navigated through the landscape of **large language models (LLMs)** such as **Mixtral 8x7b, Langchain, OpenAI, and Gemini**. Employing a diverse set of strategies, including p**rompt engineering (utilizing zero-shot prompting and two few-shot prompting), RAG approach, and fine-tuning with domain-specific data**, we achieved remarkable results. Exploring the potential of **graph databases in LLM**, we harnessed vector databases like **Chroma DB and Pinecone DB** to enhance the depth and efficiency of our projects. The journey involves continuous exploration and innovation in the vast realm of **generative AI.**
