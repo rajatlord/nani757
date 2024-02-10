@@ -35,10 +35,11 @@
 <img align="left" alt="Kubernetes" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="Numpy" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
                
-<br />
+...
+
+\n
 
 ---
-##
 
 
 ### 🚀 Recent Achievements(conversation AI)
