@@ -36,8 +36,7 @@
 <img align="left" alt="Numpy" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="seaborn" width="35px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">    
   
-...
-
+---
 
 
 
