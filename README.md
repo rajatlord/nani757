@@ -41,9 +41,9 @@
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![AzureDevOps](https://img.shields.io/badge/AzureDevOps-blue?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
-[![Rasa](https://img.shields.io/badge/Rasa-000000?style=for-the-badge&logo=rasa&logoColor=white)](https://rasa.com/)
-[![Yellow.ai](https://img.shields.io/badge/Yellow.ai-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.yellow.ai/)
-[![OneReach.ai](https://img.shields.io/badge/OneReach.ai-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.onereach.ai/)
+[![OneReach.ai](https://img.shields.io/badge/OneReach.ai-orange?style=for-the-badge)](https://www.onereach.ai/)
+[![Yellow.ai](https://img.shields.io/badge/Yellow.ai-yellow?style=for-the-badge)](https://www.yellow.ai/)
+[![Rasa](https://img.shields.io/badge/Rasa-3776AB?style=for-the-badge&logo=rasa&logoColor=white)](https://rasa.com/)
 
 #
 
